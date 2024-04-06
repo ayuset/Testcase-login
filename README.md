@@ -11,3 +11,6 @@ Cara Install
 8. Lalu pilih new -> masukkan path folder "C:\chromedriver-win32"
 9. Setelah itu buka editor seperti: Visual studio code
 10. Dan coba run file yang ada pada attachment
+
+Document Spreesheet (Testcase) : https://docs.google.com/spreadsheets/d/1SzVWEOdc05_PS90bsmjFwLnE4F5-Mcp7/edit?usp=sharing&ouid=118331495650241894880&rtpof=true&sd=true
+
